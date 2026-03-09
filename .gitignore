@@ -3,8 +3,8 @@
 
 # Local data files
 /data/
-Actual Sales Lines.xlsx
-Actual Sales Lines_old.xlsx
+*.xlsx
+*.csv
 
 # Notebook checkpoints
 .ipynb_checkpoints/
