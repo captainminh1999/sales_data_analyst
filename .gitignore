@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+
+# Local data files
+/data/
+Actual Sales Lines.xlsx
+Actual Sales Lines_old.xlsx
+
+# Notebook checkpoints
+.ipynb_checkpoints/
